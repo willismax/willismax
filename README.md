@@ -7,7 +7,6 @@
 
 [![](https://img.shields.io/badge/Qwikilabs%20Profile-Willis%20Chen-f5cd0e?logo=qwiklabs&style=for-the-badge)](https://google.qwiklabs.com/public_profiles/acf580e0-ab7d-41c0-baa2-5fdab31cec08)
 
-[![](https://img.shields.io/badge/ithome鐵人賽-威利斯-BLUE?logo=qwiklabs&style=for-the-badge)](https://google.qwiklabs.com/public_profiles/acf580e0-ab7d-41c0-baa2-5fdab31cec08)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=willismax&show_icons=true)
