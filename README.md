@@ -7,12 +7,9 @@
 
 <!-- [![](https://img.shields.io/badge/Qwikilabs%20Profile-Willis%20Chen-f5cd0e?logo=qwiklabs&style=for-the-badge)](https://google.qwiklabs.com/public_profiles/acf580e0-ab7d-41c0-baa2-5fdab31cec08) -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/willismax/willismax/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/willismax/willismax/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/willismax/willismax/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<p align="center">
- 
-  <img src="https://raw.githubusercontent.com/willismax/willismax/output/github-contribution-grid-snake.svg">
-</p>
+
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
