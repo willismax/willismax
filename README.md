@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Willis. 
 
-- 🧑 Training institution administrator and part-time lecturer
+- 🧑 Training institution administrator and Tech lecturer
 - 👨‍💻 Code enthusiast
 - 🌱 Keep learning by sharing , hoping to learn unlimited possibilities in a limited time.
 
