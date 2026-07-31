@@ -1,41 +1,32 @@
-### 👋 Hi there, I'm Willis. 
+# Hi, I'm Willis（威利斯）👋
 
-- 🧑 Training institution administrator and Tech lecturer
-- 👨‍💻 Code enthusiast
-- 🌱 Keep learning by sharing , hoping to learn unlimited possibilities in a limited time.
+**Instructor Ranked Specialist, NUTC**  
+國立臺中科技大學資訊工程系講師，持續分享 Python、AI／ML、LINE Bot、MLOps 與軟體開發教學。
 
+> Keep learning by sharing, exploring unlimited possibilities in limited time.
 
-[![](https://camo.githubusercontent.com/91cab9ffcecd8dedf1ac004d135874c51ed56485a81e03ca11f04f2259db8edf/68747470733a2f2f64316477713033326b79723033632e636c6f756466726f6e742e6e65742f696d616765732f69726f6e6d616e5f737469636b65722f31322f73656c662e706e673f737469636b6572)](https://ithelp.ithome.com.tw/users/20121130/ironman/3131)
-[![](https://camo.githubusercontent.com/1ac25eb00ecfbe198ba75e7f631c3b6bb158cb4acda2d332998a9dbc0b1814d4/68747470733a2f2f64316477713033326b79723033632e636c6f756466726f6e742e6e65742f696d616765732f69726f6e6d616e5f737469636b65722f31332f61692d616e642d646174612e706e673f737469636b6572)](https://ithelp.ithome.com.tw/users/20121130/ironman/4015)
-[![image](https://user-images.githubusercontent.com/2055349/195985973-dbf21758-3186-4934-a075-5c7cfb4f41ae.png)](https://ithelp.ithome.com.tw/users/20121130/ironman/5793)
+## 教學與實作主題
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+- Python 與資料分析
+- AI／ML 與 MLOps
+- LINE Bot 與 API 整合
+- Docker、Git／GitHub 與雲端部署
+- HackMD 與技術文件工作流程
 
-<!-- [![](https://img.shields.io/badge/Qwikilabs%20Profile-Willis%20Chen-f5cd0e?logo=qwiklabs&style=for-the-badge)](https://google.qwiklabs.com/public_profiles/acf580e0-ab7d-41c0-baa2-5fdab31cec08) -->
+## iThome 鐵人賽
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/willismax/willismax/output/github-contribution-grid-snake.svg)
+- **2022｜小題大作的 30 個 HackMD 技巧**  
+  [iThome 主連載](https://ithelp.ithome.com.tw/users/20121130/ironman/5793) · [GitHub](https://github.com/willismax/Intro_HackMD)
 
+- **2021｜從 AI 落地談 MLOps**  
+  [iThome 主連載](https://ithelp.ithome.com.tw/users/20121130/ironman/4015) · [GitHub](https://github.com/willismax/ML-in-Production-30-days-sharing)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+- **2020｜用 LINE 串起多媒體系統**  
+  [iThome 主連載](https://ithelp.ithome.com.tw/users/20121130/ironman/3131) · [GitHub](https://github.com/willismax/LINE-chact-bot-with-multimedia-systems)
 
+## 找到我
 
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=willismax)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=willismax&show_icons=true) 
-
-<!-- **willismax/willismax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on TW
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on Python Project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
- -->
+- [個人網站](https://willismax.github.io/my-site)
+- [HackMD](https://hackmd.io/@wiimax)
+- [iThome](https://ithelp.ithome.com.tw/users/20121130/)
+- [LinkedIn](https://www.linkedin.com/in/willis-chen/)
