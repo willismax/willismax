@@ -15,6 +15,11 @@
 
 ## iThome 鐵人賽
 
+四度完賽 iThome 鐵人賽。
+
+- **2026｜RE: 從 4,343 筆職缺到 AI Engineer：MLOps × GenAI Engineering 雙主軸實戰**  
+  [iThome 主連載](https://ithelp.ithome.com.tw/users/20121130/ironman/9620) · [Blog 全系列](https://willismax.github.io/my-site/blog/ironman-2026-day-01)
+
 - **2022｜小題大作的 30 個 HackMD 技巧**  
   [iThome 主連載](https://ithelp.ithome.com.tw/users/20121130/ironman/5793) · [GitHub](https://github.com/willismax/Intro_HackMD)
 
